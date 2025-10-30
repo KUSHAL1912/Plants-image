@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>1c0983df47b4725017f035ca116d4388</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_plant_mgmt_plants">
+    <x_snc_plant_mgmt_plants action="INSERT_OR_UPDATE">
+        <amount_of_water_required_mm/>
+        <date_last_watered/>
+        <date_planted/>
+        <days_since_last_full_water/>
+        <description/>
+        <growth_method/>
+        <hardiness_zone/>
+        <image>541943df47b4725017f035ca116d4365</image>
+        <is_a_flowering_plant>false</is_a_flowering_plant>
+        <issue/>
+        <located_outdoors>false</located_outdoors>
+        <location/>
+        <name>Celosia</name>
+        <notes/>
+        <number>PLANT0001001</number>
+        <other_issue/>
+        <patent/>
+        <placement/>
+        <plant_condition/>
+        <plant_location/>
+        <plant_type/>
+        <planting_method/>
+        <pottery_condition>need_to_replace</pottery_condition>
+        <pottery_notes/>
+        <pottery_type/>
+        <rain_in_last_24_hours/>
+        <rain_since_last_full_water/>
+        <scientific_name/>
+        <size/>
+        <status/>
+        <sunlight_needs/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-30 16:46:47</sys_created_on>
+        <sys_id>1c0983df47b4725017f035ca116d4388</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-30 16:46:58</sys_updated_on>
+        <tissue_culture/>
+        <u_choice_1/>
+        <u_choice_2/>
+        <u_fertilising_schedule/>
+        <u_last_prune_date/>
+        <u_last_rain_recorded/>
+        <u_next_prune_date/>
+        <u_pruning_interval/>
+        <u_water_every_days/>
+        <u_watering_due/>
+        <watering_frequency/>
+    </x_snc_plant_mgmt_plants>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color>#9d8677</average_image_color>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/jpeg</content_type>
+        <file_name>image</file_name>
+        <hash>e1c0dc66248e1f070b70851b9af9e2bbf2477af4b99cfc281d8ecb5688871c98</hash>
+        <image_height>173</image_height>
+        <image_width>183</image_width>
+        <size_bytes>5485</size_bytes>
+        <size_compressed>5481</size_compressed>
+        <state>available</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-30 16:46:58</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>541943df47b4725017f035ca116d4365</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-30 16:46:58</sys_updated_on>
+        <table_name>ZZ_YYx_snc_plant_mgmt_plants</table_name>
+        <table_sys_id>1c0983df47b4725017f035ca116d4388</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAA/w==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="image" sys_id="541943df47b4725017f035ca116d4365">541943df47b4725017f035ca116d4365</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-30 16:46:58</sys_created_on>
+        <sys_id>941943df47b4725017f035ca116d4365</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>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</data>
+        <length>7296</length>
+        <position>1</position>
+        <sys_attachment display_value="image" sys_id="541943df47b4725017f035ca116d4365">541943df47b4725017f035ca116d4365</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-30 16:46:58</sys_created_on>
+        <sys_id>581943df47b4725017f035ca116d4365</sys_id>
+    </sys_attachment_doc>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-30 16:50:58</sys_created_on>
+        <sys_id>b6f9c71747f4725017f035ca116d43d7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Celosia</sys_name>
+        <sys_package display_value="Plant Management" source="x_snc_plant_mgmt">9c697d609329ca10c7067a418bba1022</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Plant Management">9c697d609329ca10c7067a418bba1022</sys_scope>
+        <sys_update_name>sys_metadata_link_b6f9c71747f4725017f035ca116d43d7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-30 16:50:58</sys_updated_on>
+        <tablename>x_snc_plant_mgmt_plants</tablename>
+    </sys_metadata_link>
+</record_update>
